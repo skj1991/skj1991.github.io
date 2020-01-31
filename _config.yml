@@ -1,11 +1,11 @@
 # Site settings
 author: Stacy Johns
-title: 
+title: A Coding Adventure...
 header-img: img/home-bg.png
 email: stacykjohns@icloud.com
 copyright_name: Stacy Johns
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The trails and triumph of learning Software Engineering as told by me!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  skj1991
