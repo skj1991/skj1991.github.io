@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why Coding Now?"
-date:       2020-02-03 17:22:55 +0000
+date:       2020-02-03 12:22:56 -0500
 permalink:  why_coding_now
 ---
 
