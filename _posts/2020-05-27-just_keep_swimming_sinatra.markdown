@@ -10,5 +10,4 @@ The past few months have been a whirlwind of emotions. With the shutdown of many
 
 After this quarantine, I plan to return to the world better than I was before. Remember to "just keep swimming" when the waters get rough, dark and cold. Never give up!
 
-![](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi2.wp.com%2Fwww.dworin.com%2Fwp-content%2Fuploads%2F2016%2F06%2Ffinding-dory-movie.jpg%3Ffit%3D736%252C385%26ssl%3D1&imgrefurl=http%3A%2F%2Fwww.dworin.com%2Fjust-keep-swimming-business-development-lessons-from-finding-dory%2F&tbnid=NDQQbg5EuO6T8M&vet=10CBEQMyhrahcKEwiYtv2AqNXpAhUAAAAAHQAAAAAQAg..i&docid=NfPOzdqI3tb-YM&w=736&h=385&q=dory&ved=0CBEQMyhrahcKEwiYtv2AqNXpAhUAAAAAHQAAAAAQAg)
 
