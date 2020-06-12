@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Understanding Object Relationships using ActiveRecord"
-date:       2020-06-12 20:26:13 +0000
+date:       2020-06-12 16:26:14 -0400
 permalink:  understanding_object_relationships_using_activerecord
 ---
 
@@ -36,12 +36,19 @@ end`
 You will notice, that a column containing the Users table Primary ID has been added to the Cities table as the foreign key column, establishing a “Belongs to”/“Has Many” relationship between the two tables.
 
 `class CreateCities < ActiveRecord::Migration
+
   def change
+	
     create_table :cities do |t|
+		
       t.string :city
+			
       t.integer :user_id
+			
     end
+		
   end
+	
 end`
 
 When creating the the Events table the same will happen with the Primary ID of the Cities table to establish the relationship. So far only 3 of 4 tables have been created. The last migration needed will establish the JOIN table or “Many To Many” relationship between the Users and Events tables. That association looks as follows within our tables: 
