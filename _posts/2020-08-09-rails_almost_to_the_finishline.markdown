@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails: Almost to the finishline..."
-date:       2020-08-10 01:24:03 +0000
+date:       2020-08-09 21:24:03 -0400
 permalink:  rails_almost_to_the_finishline
 ---
 
